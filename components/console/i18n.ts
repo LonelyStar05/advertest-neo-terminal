@@ -12,6 +12,7 @@ const messages = {
       registry: "Model registry",
       gpu: "Tài nguyên GPU",
       settings: "Cấu hình",
+      systemHub: "Hệ thống & GPU",
     },
     titles: {
       dashboard: ["Trung tâm kiểm thử", "ROBUSTNESS OPERATIONS"],
@@ -46,6 +47,7 @@ const messages = {
       registry: "Model registry",
       gpu: "GPU resources",
       settings: "Settings",
+      systemHub: "System & GPU",
     },
     titles: {
       dashboard: ["Test center", "ROBUSTNESS OPERATIONS"],
